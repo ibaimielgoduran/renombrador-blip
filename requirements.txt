@@ -1,0 +1,7 @@
+flask
+torch
+timm
+transformers
+pillow
+google-api-python-client
+gunicorn
